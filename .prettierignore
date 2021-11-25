@@ -1,0 +1,11 @@
+/.idea
+/.vscode
+/.yarn
+/docs
+/lib
+/node_modules
+/public
+/reports
+*.md
+tsconfig.json
+/src/constants/translation
